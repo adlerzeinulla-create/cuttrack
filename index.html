@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#080a08">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="CUTTRACK">
+  <meta name="description" content="CUTTRACK 0.1v — трекер сушки: калории, макросы, меню на день/неделю/месяц, кухни и рецепты, аллергии, вода, тренировки, шаги и прогресс по гайду bigpro427.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="icon" type="image/png" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/styles.css">
+  <title>CUTTRACK 0.1v — сушка и зал</title>
+</head>
+<body>
+  <div id="app">
+    <header id="topbar">
+      <div class="brand">
+        <span class="brand-mark" id="brand-mark"></span>
+        <div class="brand-text">
+          <strong>CUTTRACK</strong>
+          <span id="top-date">сегодня</span>
+        </div>
+        <span class="ver" id="top-version">0.1v</span>
+      </div>
+      <button class="icon-btn" id="top-action" data-action="edit-profile" aria-label="Профиль"></button>
+    </header>
+
+    <main id="view" aria-live="polite"></main>
+
+    <nav id="tabbar" aria-label="Разделы">
+      <button class="tab" data-tab="food"><span class="tab-ico" data-icon="food"></span><span>Питание</span></button>
+      <button class="tab" data-tab="plan"><span class="tab-ico" data-icon="plan"></span><span>Меню</span></button>
+      <button class="tab" data-tab="train"><span class="tab-ico" data-icon="train"></span><span>Зал</span></button>
+      <button class="tab" data-tab="progress"><span class="tab-ico" data-icon="progress"></span><span>Прогресс</span></button>
+      <button class="tab" data-tab="guide"><span class="tab-ico" data-icon="guide"></span><span>Гайд</span></button>
+      <button class="tab" data-tab="profile"><span class="tab-ico" data-icon="profile"></span><span>Профиль</span></button>
+    </nav>
+  </div>
+
+  <div id="sheet-backdrop" data-action="close-sheet"></div>
+  <section id="sheet" role="dialog" aria-modal="true" aria-label="Окно" aria-hidden="true"></section>
+  <div id="toast" role="status"></div>
+
+  <script src="js/foods.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

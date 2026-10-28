@@ -1,0 +1,2106 @@
+{
+    "source":  "USDA FoodData Central, SR Legacy (April 2018), public domain",
+    "sourceUrl":  "https://fdc.nal.usda.gov/download-datasets.html",
+    "retrieved":  "2026-10-28",
+    "items":  [
+                  {
+                      "id":  "chicken-breast",
+                      "name":  "Куриная грудка",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  171477,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "high-protein",
+                                   "lean"
+                               ]
+                  },
+                  {
+                      "id":  "chicken-thigh",
+                      "name":  "Куриное бедро без кожи",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  172388,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "high-protein"
+                               ]
+                  },
+                  {
+                      "id":  "turkey-breast",
+                      "name":  "Индейка, грудка",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  174519,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "high-protein",
+                                   "lean"
+                               ]
+                  },
+                  {
+                      "id":  "turkey-thigh",
+                      "name":  "Индейка, бедро",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  171532,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "high-protein"
+                               ]
+                  },
+                  {
+                      "id":  "beef-ground",
+                      "name":  "Говядина 90/10, котлета",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  174031,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "high-protein"
+                               ]
+                  },
+                  {
+                      "id":  "beef-steak",
+                      "name":  "Стейк из говядины",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  171772,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "high-protein",
+                                   "lean"
+                               ]
+                  },
+                  {
+                      "id":  "beef-tenderloin",
+                      "name":  "Говяжья вырезка",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  170641,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "high-protein"
+                               ]
+                  },
+                  {
+                      "id":  "pork-tenderloin",
+                      "name":  "Свиная вырезка",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  168250,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "high-protein",
+                                   "lean"
+                               ]
+                  },
+                  {
+                      "id":  "egg",
+                      "name":  "Яйцо куриное, варёное",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  173424,
+                      "portion":  50,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "breakfast",
+                                   "quick"
+                               ],
+                      "allergens":  [
+                                        "egg"
+                                    ]
+                  },
+                  {
+                      "id":  "egg-white",
+                      "name":  "Яичный белок",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  172183,
+                      "portion":  100,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "lean",
+                                   "high-protein"
+                               ],
+                      "allergens":  [
+                                        "egg"
+                                    ]
+                  },
+                  {
+                      "id":  "salmon",
+                      "name":  "Лосось, запечённый",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  175168,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "omega-3"
+                               ],
+                      "allergens":  [
+                                        "fish"
+                                    ]
+                  },
+                  {
+                      "id":  "tuna",
+                      "name":  "Тунец в воде",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  173709,
+                      "portion":  120,
+                      "meals":  [
+                                    "lunch",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "lean",
+                                   "high-protein",
+                                   "quick"
+                               ],
+                      "allergens":  [
+                                        "fish"
+                                    ]
+                  },
+                  {
+                      "id":  "cod",
+                      "name":  "Треска, запечённая",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  171956,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "lean",
+                                   "high-protein"
+                               ],
+                      "allergens":  [
+                                        "fish"
+                                    ]
+                  },
+                  {
+                      "id":  "tilapia",
+                      "name":  "Тилапия, запечённая",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  175177,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "lean",
+                                   "high-protein"
+                               ],
+                      "allergens":  [
+                                        "fish"
+                                    ]
+                  },
+                  {
+                      "id":  "shrimp",
+                      "name":  "Креветки, варёные",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  175180,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "lean",
+                                   "high-protein"
+                               ],
+                      "allergens":  [
+                                        "seafood"
+                                    ]
+                  },
+                  {
+                      "id":  "mackerel",
+                      "name":  "Скумбрия, запечённая",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  175120,
+                      "portion":  120,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "omega-3"
+                               ],
+                      "allergens":  [
+                                        "fish"
+                                    ]
+                  },
+                  {
+                      "id":  "sardines",
+                      "name":  "Сардины в масле",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  175139,
+                      "portion":  100,
+                      "meals":  [
+                                    "lunch",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "omega-3",
+                                   "quick"
+                               ],
+                      "allergens":  [
+                                        "fish"
+                                    ]
+                  },
+                  {
+                      "id":  "tofu",
+                      "name":  "Тофу, твёрдый",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  172475,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "vegetarian"
+                               ],
+                      "allergens":  [
+                                        "soy"
+                                    ]
+                  },
+                  {
+                      "id":  "tempeh",
+                      "name":  "Темпе, приготовленный",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  172467,
+                      "portion":  100,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "vegetarian",
+                                   "fiber"
+                               ],
+                      "allergens":  [
+                                        "soy"
+                                    ]
+                  },
+                  {
+                      "id":  "edamame",
+                      "name":  "Эдамаме",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  168411,
+                      "portion":  100,
+                      "meals":  [
+                                    "snack",
+                                    "lunch"
+                                ],
+                      "tags":  [
+                                   "vegetarian",
+                                   "fiber"
+                               ],
+                      "allergens":  [
+                                        "soy"
+                                    ]
+                  },
+                  {
+                      "id":  "lentils",
+                      "name":  "Чечевица, варёная",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  172421,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "vegetarian",
+                                   "fiber",
+                                   "budget"
+                               ]
+                  },
+                  {
+                      "id":  "chickpeas",
+                      "name":  "Нут, варёный",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  173757,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "vegetarian",
+                                   "fiber",
+                                   "budget"
+                               ]
+                  },
+                  {
+                      "id":  "black-beans",
+                      "name":  "Фасоль чёрная, варёная",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  173735,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "vegetarian",
+                                   "fiber",
+                                   "budget"
+                               ]
+                  },
+                  {
+                      "id":  "kidney-beans",
+                      "name":  "Фасоль красная, варёная",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  173740,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "vegetarian",
+                                   "fiber",
+                                   "budget"
+                               ]
+                  },
+                  {
+                      "id":  "white-beans",
+                      "name":  "Фасоль белая, варёная",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  175203,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "vegetarian",
+                                   "fiber",
+                                   "budget"
+                               ]
+                  },
+                  {
+                      "id":  "peas",
+                      "name":  "Горошек зелёный, варёный",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  170420,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "vegetarian",
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "hummus",
+                      "name":  "Хумус",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "fdcId":  174289,
+                      "portion":  50,
+                      "meals":  [
+                                    "snack",
+                                    "lunch"
+                                ],
+                      "tags":  [
+                                   "vegetarian",
+                                   "fiber"
+                               ],
+                      "allergens":  [
+                                        "sesame"
+                                    ]
+                  },
+                  {
+                      "id":  "whey",
+                      "name":  "Протеин whey",
+                      "cat":  "protein",
+                      "role":  "protein",
+                      "portion":  30,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "high-protein",
+                                   "quick"
+                               ],
+                      "kcal":  400,
+                      "p":  80,
+                      "f":  7,
+                      "c":  8,
+                      "fiber":  1,
+                      "source":  "Open Food Facts, средние значения по рынку",
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "cottage-2",
+                      "name":  "Творог 2%",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  172182,
+                      "portion":  180,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "high-protein",
+                                   "slow-protein"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "cottage-1",
+                      "name":  "Творог 1%",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  173417,
+                      "portion":  180,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "high-protein",
+                                   "lean"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "greek-0",
+                      "name":  "Греческий йогурт 0%",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  170894,
+                      "portion":  170,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "high-protein",
+                                   "lean"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "greek-2",
+                      "name":  "Греческий йогурт 2%",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  170903,
+                      "portion":  170,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "high-protein"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "greek-whole",
+                      "name":  "Греческий йогурт 5%",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  171304,
+                      "portion":  170,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "high-protein"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "yogurt-whole",
+                      "name":  "Йогурт натуральный",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  171284,
+                      "portion":  170,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "breakfast"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "kefir",
+                      "name":  "Кефир 1%",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  170904,
+                      "portion":  250,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "probiotic"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "milk-2",
+                      "name":  "Молоко 2%",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  171267,
+                      "portion":  250,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "breakfast"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "milk-0",
+                      "name":  "Молоко обезжиренное",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  171269,
+                      "portion":  250,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "lean"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "skyr",
+                      "name":  "Скир",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "portion":  170,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "high-protein",
+                                   "lean"
+                               ],
+                      "kcal":  63,
+                      "p":  11,
+                      "f":  0.2,
+                      "c":  4,
+                      "fiber":  0,
+                      "source":  "Open Food Facts, средние значения по рынку",
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "cheddar",
+                      "name":  "Сыр чеддер",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  173414,
+                      "portion":  30,
+                      "meals":  [
+                                    "snack",
+                                    "lunch"
+                                ],
+                      "tags":  [
+                                   "fat"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "mozzarella",
+                      "name":  "Моцарелла",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  170847,
+                      "portion":  40,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "high-protein"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "parmesan",
+                      "name":  "Пармезан",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  170848,
+                      "portion":  15,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "umami"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "feta",
+                      "name":  "Фета",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  173420,
+                      "portion":  30,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fat"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "ricotta",
+                      "name":  "Рикотта",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  171248,
+                      "portion":  100,
+                      "meals":  [
+                                    "breakfast",
+                                    "lunch"
+                                ],
+                      "tags":  [
+                                   "high-protein"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "sour-cream",
+                      "name":  "Сметана 20%",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  171257,
+                      "portion":  30,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fat"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "cream-cheese",
+                      "name":  "Крем-сыр",
+                      "cat":  "dairy",
+                      "role":  "dairy",
+                      "fdcId":  173418,
+                      "portion":  30,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "fat"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "rice-white",
+                      "name":  "Рис белый, варёный",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  168878,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "gluten-free"
+                               ]
+                  },
+                  {
+                      "id":  "rice-brown",
+                      "name":  "Рис бурый, варёный",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  169704,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "gluten-free"
+                               ]
+                  },
+                  {
+                      "id":  "buckwheat",
+                      "name":  "Гречка, варёная",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  170686,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "gluten-free",
+                                   "budget"
+                               ]
+                  },
+                  {
+                      "id":  "oats-cooked",
+                      "name":  "Овсянка на воде",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  173905,
+                      "portion":  250,
+                      "meals":  [
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "breakfast",
+                                   "fiber"
+                               ],
+                      "allergens":  [
+                                        "gluten"
+                                    ]
+                  },
+                  {
+                      "id":  "oats-dry",
+                      "name":  "Овсяные хлопья",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  173904,
+                      "portion":  60,
+                      "meals":  [
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "breakfast",
+                                   "fiber"
+                               ],
+                      "allergens":  [
+                                        "gluten"
+                                    ]
+                  },
+                  {
+                      "id":  "quinoa",
+                      "name":  "Киноа, варёная",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  168917,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "gluten-free"
+                               ]
+                  },
+                  {
+                      "id":  "pasta",
+                      "name":  "Паста, варёная",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  169737,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "quick"
+                               ],
+                      "allergens":  [
+                                        "gluten"
+                                    ]
+                  },
+                  {
+                      "id":  "pasta-ww",
+                      "name":  "Паста цельнозерновая",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  168910,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ],
+                      "allergens":  [
+                                        "gluten"
+                                    ]
+                  },
+                  {
+                      "id":  "bread-ww",
+                      "name":  "Хлеб цельнозерновой",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  172688,
+                      "portion":  40,
+                      "meals":  [
+                                    "breakfast",
+                                    "lunch"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ],
+                      "allergens":  [
+                                        "gluten"
+                                    ]
+                  },
+                  {
+                      "id":  "bread-rye",
+                      "name":  "Хлеб ржаной",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  172684,
+                      "portion":  40,
+                      "meals":  [
+                                    "breakfast",
+                                    "lunch"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ],
+                      "allergens":  [
+                                        "gluten"
+                                    ]
+                  },
+                  {
+                      "id":  "bread-white",
+                      "name":  "Хлеб белый",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  174924,
+                      "portion":  40,
+                      "meals":  [
+                                    "breakfast",
+                                    "lunch"
+                                ],
+                      "tags":  [
+
+                               ],
+                      "allergens":  [
+                                        "gluten"
+                                    ]
+                  },
+                  {
+                      "id":  "potato",
+                      "name":  "Картофель, варёный",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  170440,
+                      "portion":  250,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "satiety",
+                                   "gluten-free"
+                               ]
+                  },
+                  {
+                      "id":  "sweet-potato",
+                      "name":  "Батат, запечённый",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  168483,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "gluten-free"
+                               ]
+                  },
+                  {
+                      "id":  "corn",
+                      "name":  "Кукуруза, варёная",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  169999,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "gluten-free"
+                               ]
+                  },
+                  {
+                      "id":  "couscous",
+                      "name":  "Кускус, варёный",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  169700,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "quick"
+                               ],
+                      "allergens":  [
+                                        "gluten"
+                                    ]
+                  },
+                  {
+                      "id":  "bulgur",
+                      "name":  "Булгур, варёный",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  170287,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ],
+                      "allergens":  [
+                                        "gluten"
+                                    ]
+                  },
+                  {
+                      "id":  "barley",
+                      "name":  "Перловка, варёная",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  170285,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "budget"
+                               ],
+                      "allergens":  [
+                                        "gluten"
+                                    ]
+                  },
+                  {
+                      "id":  "rice-cakes",
+                      "name":  "Рисовые хлебцы",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  170250,
+                      "portion":  20,
+                      "meals":  [
+                                    "snack",
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "quick",
+                                   "gluten-free"
+                               ]
+                  },
+                  {
+                      "id":  "honey",
+                      "name":  "Мёд",
+                      "cat":  "carb",
+                      "role":  "carb",
+                      "fdcId":  169640,
+                      "portion":  15,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "sweet"
+                               ]
+                  },
+                  {
+                      "id":  "sugar",
+                      "name":  "Сахар",
+                      "cat":  "other",
+                      "role":  "other",
+                      "fdcId":  169655,
+                      "portion":  10,
+                      "meals":  [
+
+                                ],
+                      "tags":  [
+                                   "sweet"
+                               ]
+                  },
+                  {
+                      "id":  "banana",
+                      "name":  "Банан",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  173944,
+                      "portion":  120,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "potassium",
+                                   "quick"
+                               ]
+                  },
+                  {
+                      "id":  "apple",
+                      "name":  "Яблоко",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  171688,
+                      "portion":  180,
+                      "meals":  [
+                                    "snack",
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "orange",
+                      "name":  "Апельсин",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  169097,
+                      "portion":  180,
+                      "meals":  [
+                                    "snack",
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "vitamin-c"
+                               ]
+                  },
+                  {
+                      "id":  "blueberry",
+                      "name":  "Черника",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  171711,
+                      "portion":  100,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "antioxidants"
+                               ]
+                  },
+                  {
+                      "id":  "strawberry",
+                      "name":  "Клубника",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  167762,
+                      "portion":  150,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "vitamin-c"
+                               ]
+                  },
+                  {
+                      "id":  "grapes",
+                      "name":  "Виноград",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  174683,
+                      "portion":  150,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "quick"
+                               ]
+                  },
+                  {
+                      "id":  "mango",
+                      "name":  "Манго",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  169910,
+                      "portion":  150,
+                      "meals":  [
+                                    "snack",
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "sweet"
+                               ]
+                  },
+                  {
+                      "id":  "pear",
+                      "name":  "Груша",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  169118,
+                      "portion":  180,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "kiwi",
+                      "name":  "Киви",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  168153,
+                      "portion":  120,
+                      "meals":  [
+                                    "snack",
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "vitamin-c"
+                               ]
+                  },
+                  {
+                      "id":  "watermelon",
+                      "name":  "Арбуз",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  167765,
+                      "portion":  200,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "hydration"
+                               ]
+                  },
+                  {
+                      "id":  "pineapple",
+                      "name":  "Ананас",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  169124,
+                      "portion":  150,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "sweet"
+                               ]
+                  },
+                  {
+                      "id":  "raisins",
+                      "name":  "Изюм",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  168165,
+                      "portion":  30,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "quick"
+                               ]
+                  },
+                  {
+                      "id":  "dates",
+                      "name":  "Финики",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  168191,
+                      "portion":  30,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "quick"
+                               ]
+                  },
+                  {
+                      "id":  "lemon",
+                      "name":  "Лимон",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  167746,
+                      "portion":  30,
+                      "meals":  [
+
+                                ],
+                      "tags":  [
+                                   "vitamin-c"
+                               ]
+                  },
+                  {
+                      "id":  "raspberry",
+                      "name":  "Малина",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  167755,
+                      "portion":  100,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "blackberry",
+                      "name":  "Ежевика",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  173946,
+                      "portion":  100,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "cherry",
+                      "name":  "Черешня",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  171719,
+                      "portion":  150,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "antioxidants"
+                               ]
+                  },
+                  {
+                      "id":  "apricot",
+                      "name":  "Абрикос",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  171697,
+                      "portion":  150,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "grapefruit",
+                      "name":  "Грейпфрут",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  174673,
+                      "portion":  200,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "vitamin-c"
+                               ]
+                  },
+                  {
+                      "id":  "melon",
+                      "name":  "Дыня",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  169092,
+                      "portion":  200,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "hydration"
+                               ]
+                  },
+                  {
+                      "id":  "plum",
+                      "name":  "Слива",
+                      "cat":  "fruit",
+                      "role":  "fruit",
+                      "fdcId":  169949,
+                      "portion":  150,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "broccoli",
+                      "name":  "Брокколи",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  169967,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "satiety"
+                               ]
+                  },
+                  {
+                      "id":  "cucumber",
+                      "name":  "Огурец",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  168409,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "hydration"
+                               ]
+                  },
+                  {
+                      "id":  "tomato",
+                      "name":  "Помидор",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  170457,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner",
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "hydration"
+                               ]
+                  },
+                  {
+                      "id":  "lettuce",
+                      "name":  "Салат романо",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  169247,
+                      "portion":  100,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "carrot",
+                      "name":  "Морковь",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  170394,
+                      "portion":  100,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "vitamin-a"
+                               ]
+                  },
+                  {
+                      "id":  "zucchini",
+                      "name":  "Кабачок",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  169292,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "hydration"
+                               ]
+                  },
+                  {
+                      "id":  "pepper",
+                      "name":  "Перец болгарский",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  170108,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "vitamin-c"
+                               ]
+                  },
+                  {
+                      "id":  "spinach",
+                      "name":  "Шпинат",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  168463,
+                      "portion":  100,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner",
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "iron"
+                               ]
+                  },
+                  {
+                      "id":  "onion",
+                      "name":  "Лук",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  170000,
+                      "portion":  80,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "flavor"
+                               ]
+                  },
+                  {
+                      "id":  "cabbage",
+                      "name":  "Капуста белая",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  169975,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "satiety",
+                                   "budget"
+                               ]
+                  },
+                  {
+                      "id":  "cauliflower",
+                      "name":  "Цветная капуста",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  170397,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "satiety"
+                               ]
+                  },
+                  {
+                      "id":  "green-beans",
+                      "name":  "Стручковая фасоль",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  169141,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "asparagus",
+                      "name":  "Спаржа",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  168390,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "mushrooms",
+                      "name":  "Шампиньоны",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  169252,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner",
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "umami",
+                                   "satiety"
+                               ]
+                  },
+                  {
+                      "id":  "beets",
+                      "name":  "Свёкла",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  169146,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "pumpkin",
+                      "name":  "Тыква",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  168449,
+                      "portion":  200,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "satiety"
+                               ]
+                  },
+                  {
+                      "id":  "eggplant",
+                      "name":  "Баклажан",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  169229,
+                      "portion":  150,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "sauerkraut",
+                      "name":  "Капуста квашеная",
+                      "cat":  "veg",
+                      "role":  "veg",
+                      "fdcId":  169279,
+                      "portion":  100,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner"
+                                ],
+                      "tags":  [
+                                   "probiotic",
+                                   "fiber"
+                               ]
+                  },
+                  {
+                      "id":  "olive-oil",
+                      "name":  "Оливковое масло",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  171413,
+                      "portion":  10,
+                      "meals":  [
+                                    "lunch",
+                                    "dinner",
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "healthy-fat"
+                               ]
+                  },
+                  {
+                      "id":  "coconut-oil",
+                      "name":  "Кокосовое масло",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  171412,
+                      "portion":  10,
+                      "meals":  [
+                                    "breakfast",
+                                    "lunch"
+                                ],
+                      "tags":  [
+                                   "healthy-fat"
+                               ]
+                  },
+                  {
+                      "id":  "avocado",
+                      "name":  "Авокадо",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  171705,
+                      "portion":  100,
+                      "meals":  [
+                                    "breakfast",
+                                    "lunch",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "healthy-fat"
+                               ]
+                  },
+                  {
+                      "id":  "almonds",
+                      "name":  "Миндаль",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  170567,
+                      "portion":  25,
+                      "meals":  [
+                                    "snack",
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "healthy-fat",
+                                   "fiber"
+                               ],
+                      "allergens":  [
+                                        "nuts"
+                                    ]
+                  },
+                  {
+                      "id":  "walnuts",
+                      "name":  "Грецкий орех",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  170187,
+                      "portion":  25,
+                      "meals":  [
+                                    "snack",
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "omega-3",
+                                   "healthy-fat"
+                               ],
+                      "allergens":  [
+                                        "nuts"
+                                    ]
+                  },
+                  {
+                      "id":  "cashews",
+                      "name":  "Кешью",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  170162,
+                      "portion":  25,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "healthy-fat"
+                               ],
+                      "allergens":  [
+                                        "nuts"
+                                    ]
+                  },
+                  {
+                      "id":  "peanuts",
+                      "name":  "Арахис",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  173806,
+                      "portion":  25,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "healthy-fat"
+                               ],
+                      "allergens":  [
+                                        "peanut"
+                                    ]
+                  },
+                  {
+                      "id":  "peanut-butter",
+                      "name":  "Арахисовая паста",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  172470,
+                      "portion":  25,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "healthy-fat"
+                               ],
+                      "allergens":  [
+                                        "peanut"
+                                    ]
+                  },
+                  {
+                      "id":  "chia",
+                      "name":  "Семена чиа",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  170554,
+                      "portion":  15,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "omega-3"
+                               ]
+                  },
+                  {
+                      "id":  "flax",
+                      "name":  "Семена льна",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  169414,
+                      "portion":  15,
+                      "meals":  [
+                                    "breakfast",
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "fiber",
+                                   "omega-3"
+                               ]
+                  },
+                  {
+                      "id":  "sunflower",
+                      "name":  "Семечки подсолнечника",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  170562,
+                      "portion":  20,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "healthy-fat"
+                               ]
+                  },
+                  {
+                      "id":  "pumpkin-seeds",
+                      "name":  "Тыквенные семечки",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  170556,
+                      "portion":  20,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "healthy-fat"
+                               ]
+                  },
+                  {
+                      "id":  "butter",
+                      "name":  "Сливочное масло",
+                      "cat":  "fat",
+                      "role":  "fat",
+                      "fdcId":  173410,
+                      "portion":  10,
+                      "meals":  [
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "fat"
+                               ],
+                      "allergens":  [
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "dark-chocolate",
+                      "name":  "Шоколад 70%",
+                      "cat":  "other",
+                      "role":  "other",
+                      "fdcId":  170273,
+                      "portion":  20,
+                      "meals":  [
+                                    "snack"
+                                ],
+                      "tags":  [
+                                   "treat"
+                               ],
+                      "allergens":  [
+                                        "dairy",
+                                        "soy"
+                                    ]
+                  },
+                  {
+                      "id":  "coffee",
+                      "name":  "Кофе чёрный",
+                      "cat":  "other",
+                      "role":  "other",
+                      "fdcId":  171890,
+                      "portion":  250,
+                      "meals":  [
+                                    "breakfast"
+                                ],
+                      "tags":  [
+                                   "drink"
+                               ]
+                  },
+                  {
+                      "id":  "cola",
+                      "name":  "Кола",
+                      "cat":  "other",
+                      "role":  "other",
+                      "fdcId":  174852,
+                      "portion":  330,
+                      "meals":  [
+
+                                ],
+                      "tags":  [
+                                   "drink",
+                                   "sweet"
+                               ]
+                  },
+                  {
+                      "id":  "beer",
+                      "name":  "Пиво",
+                      "cat":  "other",
+                      "role":  "other",
+                      "fdcId":  168746,
+                      "portion":  500,
+                      "meals":  [
+
+                                ],
+                      "tags":  [
+                                   "drink",
+                                   "alcohol"
+                               ],
+                      "allergens":  [
+                                        "gluten"
+                                    ]
+                  },
+                  {
+                      "id":  "pizza",
+                      "name":  "Пицца",
+                      "cat":  "other",
+                      "role":  "other",
+                      "fdcId":  170317,
+                      "portion":  150,
+                      "meals":  [
+
+                                ],
+                      "tags":  [
+                                   "treat"
+                               ],
+                      "allergens":  [
+                                        "gluten",
+                                        "dairy"
+                                    ]
+                  },
+                  {
+                      "id":  "chips",
+                      "name":  "Чипсы",
+                      "cat":  "other",
+                      "role":  "other",
+                      "fdcId":  170248,
+                      "portion":  50,
+                      "meals":  [
+
+                                ],
+                      "tags":  [
+                                   "treat"
+                               ]
+                  },
+                  {
+                      "id":  "ice-cream",
+                      "name":  "Мороженое",
+                      "cat":  "other",
+                      "role":  "other",
+                      "fdcId":  167575,
+                      "portion":  100,
+                      "meals":  [
+
+                                ],
+                      "tags":  [
+                                   "treat"
+                               ],
+                      "allergens":  [
+                                        "dairy",
+                                        "egg"
+                                    ]
+                  },
+                  {
+                      "id":  "ketchup",
+                      "name":  "Кетчуп",
+                      "cat":  "other",
+                      "role":  "other",
+                      "fdcId":  168556,
+                      "portion":  15,
+                      "meals":  [
+
+                                ],
+                      "tags":  [
+                                   "sauce"
+                               ]
+                  },
+                  {
+                      "id":  "mayo",
+                      "name":  "Майонез",
+                      "cat":  "other",
+                      "role":  "other",
+                      "fdcId":  171009,
+                      "portion":  15,
+                      "meals":  [
+
+                                ],
+                      "tags":  [
+                                   "sauce",
+                                   "fat"
+                               ],
+                      "allergens":  [
+                                        "egg"
+                                    ]
+                  }
+              ]
+}
